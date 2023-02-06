@@ -1,0 +1,61 @@
+
+#header{
+    position: fixed;
+    top: 0;
+
+ 
+}
+#header>#logo{
+    margin-top:20px;
+    background: url('../images/images.png') no-repeat -70px -41px;
+	width: 411px;
+	height: 135px;
+    zoom:0.5;
+    float:left;
+}
+
+.nav{
+    width: 900px;
+    height:100px;
+    float:left;
+}
+
+.gnb{
+    float:left;
+    position: relative;
+    top:68px;
+    list-style:none;
+    padding-left:0px;
+}
+.gnb>li{
+    float:left;
+}
+
+.gnb>li>a{
+    display:block;
+    width: 180px;
+    text-align:center;
+    padding-top:10px;
+    box-sizing: border-box;
+}
+.lnb>li>a{
+    margin:auto;
+    display:block;
+    width: 100px;
+    background-color: white;
+    text-align:center;
+    padding-top:15px;
+    box-sizing: border-box;
+}
+/*hover는 마우스 갖다대는거*/
+.gnb li a:hover{ /*화살표는 하위요소 지정이기 때문에 띄어쓰기로 모든걸 적용 시킴*/ 
+    
+    font-weight: bolder;
+    
+}
+
+.lnb{
+    display:none;
+    list-style:none;
+    padding-left:0px;
+}

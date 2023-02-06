@@ -1,0 +1,33 @@
+
+
+#contents>#puppy>#puppyimg{
+    margin:auto;
+    margin-top:50px;
+    text-align: center;
+    background:url('../images/images.png') no-repeat;
+    width:515px; height:507px; background-position:-309px -222px;
+    zoom:1.3;
+}
+
+#contents>#menu>#adopt{
+    margin:auto;
+    margin-top:90px;
+    margin-bottom:20px;
+    background:url('../images/images.png') no-repeat;
+    width: 152px; height: 149px; background-position: -89px -259px;
+    zoom:1;
+}
+#contents>#menu>#center{
+    margin:auto;
+    margin-top:50px;
+    background:url('../images/images.png') no-repeat;
+    width: 228px; height: 159px; background-position: -54px -468px;
+    zoom:1;
+}
+#contents>#menu>#protection{
+    margin:auto;
+    margin-top:50px;
+    background:url('../images/images.png') no-repeat;
+    width: 182px; height: 213px; background-position: -78px -657px;
+    zoom:1;
+}
